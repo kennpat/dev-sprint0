@@ -31,3 +31,5 @@ bob.delay = 0.01
 lt(bob)
 bk(bob, 70)
 draw(bob, 10, 7)
+
+print "test"
